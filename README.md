@@ -1,19 +1,22 @@
-# computing-project
-Computing project for goldsmiths
+Computing Project For Goldsmiths
 
-Hello whoever may be reading this, this is a dense react + express project
+Greetings to anyone reading this, this is a compact react + express project. 
+There could be some dependencies that might be disrupted: 
+To remove any confusion there should be two terminals one for backend and one for frontend.
 
-there are some dependencies that may be broken and clashing but here is how to fix it:
 
+For backend 
 cd backend
 npm install --force
+
+For front end
 cd ../frontend/barber-app
 npm install --force
 
-then make a new terminal, one specifically for running the backend
+For backend 
 cd backend
 node . or nodemon .
 
-for front end
+For front end
 cd frontend/barber-app
 npm start# BarberApp
